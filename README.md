@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Mini Katalog Uygulaması
 
 Flutter ile geliştirilmiş, eğitim amaçlı mini ürün katalog ve sepet uygulaması. Ürünler JSON varlığından okunur; ana sayfa, ürün detayı ve sepet akışı tamamlanmıştır.
@@ -73,3 +74,6 @@ _(Buraya ürün detay ekran görüntüsü)_
 ### Sepet
 
 _(Buraya sepet ekran görüntüsü)_
+=======
+# flutter-mini-katalog
+>>>>>>> c3cc2f901db70a1662e2f9a7913c585a521a8f56

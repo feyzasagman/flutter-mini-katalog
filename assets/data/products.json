@@ -1,0 +1,128 @@
+[
+  {
+    "id": "p01",
+    "title": "Kablosuz Kulaklık Pro",
+    "category": "Ses",
+    "price": 1299.99,
+    "description": "Gürültü engelleme, uzun pil ömrü ve hafif gövde. Günlük kullanım ve seyahatlerde konforlu dinleme sunar.",
+    "imageUrl": "assets/images/products/headphones.jpg",
+    "specifications": {
+      "Bağlantı": "Bluetooth 5.2",
+      "Pil Ömrü": "30 saat",
+      "Ağırlık": "240 g",
+      "Garanti": "24 ay"
+    }
+  },
+  {
+    "id": "p02",
+    "title": "Akıllı Saat Neo",
+    "category": "Giyilebilir",
+    "price": 3499.0,
+    "description": "Kalp ritmi ve uyku takibi, suya dayanıklı yapı ve parlak AMOLED ekran ile günlük aktivitenizi takip edin.",
+    "imageUrl": "assets/images/products/smartwatch.jpg",
+    "specifications": {
+      "Ekran": "1,4\" AMOLED",
+      "Su Dayanımı": "5 ATM",
+      "Sensörler": "GPS, nabız",
+      "Uyumluluk": "iOS / Android"
+    }
+  },
+  {
+    "id": "p03",
+    "title": "Taşınabilir Hoparlör Mini",
+    "category": "Ses",
+    "price": 549.5,
+    "description": "360° ses yayılımı, kompakt form ve IPX7 su geçirmezlik. Açık hava ve seyahat kullanımı için uygundur.",
+    "imageUrl": "assets/images/products/speaker.jpg",
+    "specifications": {
+      "Güç": "20 W",
+      "Bağlantı": "Bluetooth / AUX",
+      "Pil": "12 saat",
+      "Renk": "Grafit"
+    }
+  },
+  {
+    "id": "p04",
+    "title": "USB-C Çoklayıcı Hub",
+    "category": "Aksesuar",
+    "price": 899.0,
+    "description": "HDMI, USB-A ve kart okuyucu ile tek USB-C kablosu üzerinden genişletilmiş bağlantı. Dizüstü ve tabletlerle uyumludur.",
+    "imageUrl": "assets/images/products/hub.jpg",
+    "specifications": {
+      "Portlar": "HDMI 4K, USB 3.0 x3",
+      "Güç Geçişi": "USB-C PD 100W",
+      "Malzeme": "Alüminyum gövde",
+      "Uyumluluk": "Windows / macOS"
+    }
+  },
+  {
+    "id": "p05",
+    "title": "Mekanik Klavye RGB",
+    "category": "Çevre birimi",
+    "price": 2199.0,
+    "description": "Dokunsal geri bildirim, mekanik anahtarlar ve kişiselleştirilebilir RGB aydınlatma. Oyun ve üretkenlik odaklı çalışmalar için uygundur.",
+    "imageUrl": "assets/images/products/keyboard.jpg",
+    "specifications": {
+      "Anahtar": "Cherry MX Brown uyumlu",
+      "Tuş Sayısı": "87 (TKL)",
+      "Bağlantı": "USB-C kablolu",
+      "Ağırlık": "980 g"
+    }
+  },
+  {
+    "id": "p06",
+    "title": "Ergonomic Mouse Silent",
+    "category": "Çevre birimi",
+    "price": 459.99,
+    "description": "Sessiz tıklama ve avuç içi desteği ile uzun süreli kullanımda ergonomi sunan kablosuz fare.",
+    "imageUrl": "assets/images/products/mouse.jpg",
+    "specifications": {
+      "DPI": "800–4000",
+      "Pil": "AA x1 (18 ay civarı)",
+      "Bağlantı": "2.4 GHz alıcı",
+      "El": "Sağ el"
+    }
+  },
+  {
+    "id": "p07",
+    "title": "Powerbank 20000 mAh",
+    "category": "Güç",
+    "price": 699.0,
+    "description": "Yüksek kapasite ve hızlı şarj desteği ile telefon ve tabletlerinizi güçlü bir yedek kaynakla destekler.",
+    "imageUrl": "assets/images/products/powerbank.jpg",
+    "specifications": {
+      "Kapasite": "20000 mAh",
+      "Çıkış": "USB-C / USB-A",
+      "Hızlı Şarj": "PD 22.5W",
+      "Gövde": "Kaymaz mat yüzey"
+    }
+  },
+  {
+    "id": "p08",
+    "title": "Webcam Full HD",
+    "category": "Görüntü",
+    "price": 1199.0,
+    "description": "Net görüntü ve çift mikrofon ile uzaktan çalışma ve görüşmeler için optimize edilmiş Full HD web kamerası.",
+    "imageUrl": "assets/images/products/webcam.jpg",
+    "specifications": {
+      "Çözünürlük": "1080p 30 fps",
+      "Görüş Alanı": "78° geniş açı",
+      "Bağlantı": "USB-A",
+      "Montaj": "Klips / tripod dişi"
+    }
+  },
+  {
+    "id": "p09",
+    "title": "Tablet Stand Ayarlanabilir",
+    "category": "Aksesuar",
+    "price": 329.0,
+    "description": "Alüminyum gövde, çok açılı ayar ve sağlam yapı ile tablet ve dizüstü kullanımında ergonomik masa düzeni sunar.",
+    "imageUrl": "assets/images/products/tablet_stand.jpg",
+    "specifications": {
+      "Malzeme": "Alüminyum alaşım",
+      "Uyumluluk": "7–13\" cihazlar",
+      "Yükseklik": "Ayarlanabilir",
+      "Katlanır": "Evet"
+    }
+  }
+]

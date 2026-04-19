@@ -65,15 +65,18 @@ flutter create .
 
 ### Ana sayfa
 
-_(Buraya ana sayfa ekran görüntüsü)_
+<img width="399" height="802" alt="home" src="https://github.com/user-attachments/assets/e9ae9c3f-c8b1-43c6-a755-c31116151b90" />
+
 
 ### Ürün detayı
 
-_(Buraya ürün detay ekran görüntüsü)_
+<img width="440" height="803" alt="cart" src="https://github.com/user-attachments/assets/f4792f29-1661-452f-9a12-0699142e5260" />
+
 
 ### Sepet
 
-_(Buraya sepet ekran görüntüsü)_
+<img width="418" height="822" alt="cart 4" src="https://github.com/user-attachments/assets/df6b4fe1-a409-4327-8cce-accf29e2f23b" />
+
 =======
 # flutter-mini-katalog
 >>>>>>> c3cc2f901db70a1662e2f9a7913c585a521a8f56
